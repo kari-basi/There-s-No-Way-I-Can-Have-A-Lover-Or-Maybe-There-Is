@@ -1,17 +1,17 @@
-{
-  "title": "There's No Way I Can Have a Lover! *Or Maybe There Is!?",
-  "description": "Manga yuri harem buatan dari Mikami Teren, Musshu, dan Takeshima Eku",
-  "artist": "Musshu",
-  "author": "Musshu",
-  "cover": "https://uploads.mangadex.org/covers/e160a8e3-304f-4dca-838b-ee1821c490d8/cad25015-dd1e-4396-94a8-fcd06b665908.png",
-  "chapters": {
-    "<01>": {
-      "title": "Chapter 1",
-      "volume": "1",
-      "groups": {
-        "Luminous TL": "/proxy/api/imgur/chapter/Ziupwrg/"
-      },
-      "last_updated": "1629062810"
+{    
+    "title": "There's No Way I Can Have a Lover! *Or Maybe There Is!?",
+    "description": "Manga yuri harem buatan dari Mikami Teren, Musshu, dan Takeshima Eku",
+    "author": "Musshu",
+    "artist": "Musshu",
+    "cover": "https://i.imgur.com/xGw6iY1.jpg",
+    "chapters": {
+        "01": {
+            "groups": {
+                "Imgur": "/proxy/api/imgur/chapter/Ziupwrg"
+            },
+            "last_updated": 1629062810,
+            "title": "Watanare",
+            "volume": "1"
+        }
     }
-  }
 }
