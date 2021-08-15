@@ -13,7 +13,8 @@
             "title": "Chapter 1",
             "volume": "1"
         },
-         "1,5": {
+         "chapters": {
+             "01,5": {
       "title": "Extra",
       "volume": "1",
       "groups": {
