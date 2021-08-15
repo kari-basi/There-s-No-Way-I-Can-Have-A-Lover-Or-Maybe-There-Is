@@ -12,15 +12,15 @@
             "last_updated": 1629062810,
             "title": "Chapter 1",
             "volume": "1"
-        },
-        "chapters": {
-            "01,5": {
-                  "groups": {
-                      "Luminous TL": "/proxy/api/imgur/chapter/7loHe9S"
-                  },
-                  "last_updated": 1629062810,
-                  "title": "Extra",
-                  "Volume": "1"
+    },
+    "chapters": {
+      "01,5": {
+            "groups": {
+                "Luminous TL": "/proxy/api/imgur/chapter/7loHe9S"
+            },
+            "last_updated": 1629062810,
+            "title": "Extra",
+            "Volume": "1"
     }
   }
 }
